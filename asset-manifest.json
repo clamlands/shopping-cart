@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc5c829b.css",
+    "main.js": "/static/js/main.6d375984.js",
+    "static/media/garden.jpg": "/static/media/garden.d0d60de3ef085693c42a.jpg",
+    "static/media/broccoli.jpg": "/static/media/broccoli.65939e817d9b854c6659.jpg",
+    "static/media/carrot.jpg": "/static/media/carrot.51d92728244422a13eba.jpg",
+    "static/media/asparagus.jpg": "/static/media/asparagus.95fdc0e0e03aa870ecf0.jpg",
+    "static/media/kale.jpg": "/static/media/kale.8c0de0d2541b6a3a6691.jpg",
+    "static/media/cauliflower.jpg": "/static/media/cauliflower.df6b13c8ada761c9469c.jpg",
+    "static/media/pepper.jpg": "/static/media/pepper.afb4df8b6161bfa7b59f.jpg",
+    "static/media/mushrooms.jpg": "/static/media/mushrooms.797084db63b06321fce4.jpg",
+    "static/media/cabbage.jpg": "/static/media/cabbage.21e9b95fc9761dca35f3.jpg",
+    "static/media/sprouts.jpg": "/static/media/sprouts.ce9e78be2e3d6075887c.jpg",
+    "static/media/tomato.jpg": "/static/media/tomato.21a34794a3336c928e76.jpg",
+    "index.html": "/index.html",
+    "main.bc5c829b.css.map": "/static/css/main.bc5c829b.css.map",
+    "main.6d375984.js.map": "/static/js/main.6d375984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5c829b.css",
+    "static/js/main.6d375984.js"
+  ]
+}
